@@ -19,13 +19,14 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
----
+
 # latest_posts:
 #   enabled: true
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog posts
+---
 
-hi! i'm sara :) 
+hi! i'm sara :)
 
 I am a computational cognitive scientist working at the intersection of brain, behavior, and computation. I'm a recent MSc graduate from The University of Edinburgh in Cognitive Science and am moving towards working in industry research and computational neuroscience and neurotech.
 
