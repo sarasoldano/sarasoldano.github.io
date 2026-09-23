@@ -1,10 +1,9 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Sara Soldano
+  email: sarasoldano01@gmail.com
+  location: San Jose, CA
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Computational cognitive scientist with expertise in neural data analysis, EEG methodology, and human memory research.
 
   social_networks:
     - network: X
@@ -23,93 +22,49 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
+      - institution: The University of Edinburgh
+        location: Edinburgh, Scotland
         url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        area: Cognitive Science
+        studyType: MSc
+        start_date: 2025
+        end_date: 2026
         score: ""
-        courses: "Theory of Relativity"
+        courses: ""
         highlights:
           - Description 1.
           - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: University of California, Santa Cruz
+        location: Santa Cruz, California
+        area: Cognitive Science
+        studyType: Bachelor of Science
+        start_date: 2020
+        end_date: 2024
+        score: "Graduated with Honors"
         highlights:
           - Description 1.
           - Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Samaha Lab, UC Santa Cruz
+        position: Undergraduate Research Assistant
+        start_date: 2023
+        end_date: 2024
+        summary: Investigated how individual alpha frequency modulates visual consciousness and temporal perception, contributing to research on the neural basis of metacognition and time perception.
         highlights:
           - Relativity
           - Description 2.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
+      - company: Mother Tongue
+        position: Conversational AI Model Trainer
+        location: Remote
+        start_date: 2022
+        end_date: 2023
+        summary: Trained 200+ large language models across domains including tech support, history, and customer service, optimising for naturalness and accuracy
+        highlights: 
           - Description 1.
           - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
@@ -143,11 +98,11 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
+      - name: English
         summary: "Native speaker"
 
-      - name: English
-        summary: "Fluent"
+      - name: Italian
+        summary: "Native speaker"
 
     Interests:
       - name: Physics
